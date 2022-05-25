@@ -1,0 +1,38 @@
+/* // tailwind way css */
+#root {
+    background: rgb(231, 89, 125);
+}
+/* Duble Extra LargeLarge  Devices (1536)px */
+@media only screen and (min-width: 1536px) {
+        #root {
+        background: rgb(201, 74, 43);
+    }
+}
+
+/*  Extra  Devices  (1280)px */
+@media only screen and (min-width: 1280px) {
+        #root {
+        background: rgb(69, 21, 228);
+    }
+}
+
+/*  Large Devices  (1280)px */
+@media only screen and (min-width: 1024px) {
+        #root {
+        background: rgb(76, 231, 56);
+    }
+}
+
+/* Medium Devices(768)px */
+@media only screen and (min-width: 768px) {
+        #root {
+        background: rgb(142, 104, 230);
+    }
+}
+
+/* Small Devices (640)px */
+@media only screen and (min-width: 640px) {
+    #root {
+        background: #000;
+    }
+}

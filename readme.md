@@ -4,5 +4,6 @@
 - [x] Publish
 - [x] search option
 - [x] dark mode
+- [x] Brainstorming 🧠⚡👨🏽‍💻
 - [ ] into electron version
 - [ ] etc
